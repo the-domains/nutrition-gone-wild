@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Nutrition Gone Wild]]></title>
         <description><![CDATA[Nutrition Gone Wild]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nutrition-gone-wild/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 04:44:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 04:45:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nutrition-gone-wild/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nutrition Gone Wild]]></title>
             <description><![CDATA[<article><h1>Nutrition Gone Wild</h1><p>Nutrition advice for the practical party-goer</p></article>]]></description>
-            <link>undefinednutrition-gone-wild/index.html</link>
+            <link>https://thegrid.ai/nutrition-gone-wild/nutrition-gone-wild/index.html</link>
             <guid isPermaLink="false">3f0e5a7b-19e7-4122-8512-db4c75c7b07c</guid>
+            <pubDate>Wed, 17 Feb 2016 04:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How to feel good during the day, so the party doesn't stop at night...</p>]]></description>
+            <link>https://thegrid.ai/nutrition-gone-wild/fd607106-28cb-48a3-965f-81f019fb959c/index.html</link>
+            <guid isPermaLink="false">fd607106-28cb-48a3-965f-81f019fb959c</guid>
             <pubDate>Wed, 17 Feb 2016 04:44:48 GMT</pubDate>
         </item>
     </channel>
