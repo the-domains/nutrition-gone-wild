@@ -1,7 +1,7 @@
 name: Nutrition Gone Wild
 favicon: null
-layout_spectrum: 0.0007658798713237047
-typography_spectrum: 0.14116159593686461
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.39968796679750085
-  lightness: 0.2725300749298185
-  saturation: 0.9054523885715753
-  rhythmicContrast: 0.20455969939939678
+    - '#000000'
+    - '#ffffff'
+    - '#f48722'
+    - '#6dbf63'
+    - '#f40a32'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
