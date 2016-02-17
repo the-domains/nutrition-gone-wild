@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nutrition Gone Wild]]></title>
+        <description><![CDATA[Nutrition Gone Wild]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 04:44:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nutrition Gone Wild]]></title>
+            <description><![CDATA[<article><h1>Nutrition Gone Wild</h1><p>Nutrition advice for the practical party-goer</p></article>]]></description>
+            <link>undefinednutrition-gone-wild/index.html</link>
+            <guid isPermaLink="false">3f0e5a7b-19e7-4122-8512-db4c75c7b07c</guid>
+            <pubDate>Wed, 17 Feb 2016 04:44:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
